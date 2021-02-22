@@ -1,6 +1,6 @@
 # BitBotBackToTheFuture
 
-Bot of Bitmax
+Bot of Bitmex
 
 Example file "key.txt" (Configuration)
 
@@ -44,20 +44,17 @@ Example file "key.txt" (Configuration)
 
     {
 
-
 "name":"CCI",
 
     	"period":8
     },
     {
 
-
 "name":"RSI",
 
     	"period":8
     },
     {
-
 
 "name":"BBANDS",
 
@@ -70,7 +67,6 @@ Example file "key.txt" (Configuration)
 
     	{
 
-
 "name":"MA",
 
     		"period":5
@@ -81,7 +77,6 @@ Example file "key.txt" (Configuration)
 "indicatorsEntryDecision":[
 
     {
-
 
 "name":"RSI",
 
