@@ -91,4 +91,4 @@ Example file "key.txt" (Configuration)
 
 }
 
-Download somente do executável: https://github.com/MateusGrijo/BitBotBackToTheFuture/blob/master/BitBotBackToTheFuture.zip?raw=true
+Download somente do executável: https://github.com/MateusGrijo/BitBotBackToTheFuture/blob/master/Debug.zip?raw=true
